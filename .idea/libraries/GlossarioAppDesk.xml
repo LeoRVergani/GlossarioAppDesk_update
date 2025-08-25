@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GlossarioAppDesk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GlossarioAppDesk_atualizado/out/artifacts/GlossarioAppDesk_jar/GlossarioAppDesk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
