@@ -2,7 +2,7 @@
   {
     "palavra": "AB",
     "definicao": "Atenção Básica",
-    "palavrasChave": "ab, atencao, basica, saude"
+    "palavrasChave": "ab, atenção, básica, saude"
   },
   {
     "palavra": "ACT",
@@ -12,91 +12,336 @@
   {
     "palavra": "AIH",
     "definicao": "Autorização para Internamento Hospitalar",
-    "palavrasChave": "aih, autorizacao, internamento, hospitalar"
+    "palavrasChave": "aih, autorização, internamento, hospitalar"
   },
   {
     "palavra": "ALM",
     "definicao": "Almoxarifado",
-    "palavrasChave": "alm, almoxarifado, estoque"
+    "palavrasChave": "alm, almoxarifado, estoque, material"
   },
   {
     "palavra": "APAC",
     "definicao": "Autorização de Procedimento de Alta Complexidade",
-    "palavrasChave": "apac, autorizacao, procedimento, alta, complexidade"
+    "palavrasChave": "apac, autorização, procedimento, alta, complexidade"
   },
   {
     "palavra": "APS",
     "definicao": "Atenção Primária à Saúde",
-    "palavrasChave": "aps, atencao, primaria, saude"
+    "palavrasChave": "aps, atenção, primária, saude"
   },
   {
     "palavra": "Bolachinha",
-    "definicao": "São os icones da tela inicial do E-Saúde, que se encontra após o login",
-    "palavrasChave": "bolachinha, icones, esaude, e-saude, login, tela inicial"
+    "definicao": "São os ícones da tela inicial do E-Saúde, que se encontra após o login",
+    "palavrasChave": "bolachinha, ícones, tela, inicial, e-saúde, login"
   },
   {
     "palavra": "BPA",
     "definicao": "Boletim de Produção Ambulatorial",
-    "palavrasChave": "bpa, boletim, producao, ambulatorial"
+    "palavrasChave": "bpa, boletim, produção, ambulatorial"
+  },
+  {
+    "palavra": "BPA-C",
+    "definicao": "Boletim de Produção Ambulatorial Consolidado",
+    "palavrasChave": "bpa-c, bpac, boletim, produção, ambulatorial, consolidado"
+  },
+  {
+    "palavra": "BPA-I",
+    "definicao": "Boletim de Produção Ambulatorial Individualizado",
+    "palavrasChave": "bpa-i, bpai, boletim, produção, ambulatorial, individualizado"
   },
   {
     "palavra": "CADSUS",
     "definicao": "Cadastro Nacional de Usuários do Sistema Único de Saúde",
-    "palavrasChave": "cadsus, cadastro, nacional, usuarios, sus"
+    "palavrasChave": "cadsus, cadastro, nacional, usuários, sus"
   },
   {
     "palavra": "CBO",
     "definicao": "Código Brasileiro de Ocupação",
-    "palavrasChave": "cbo, codigo, brasileiro, ocupacao"
+    "palavrasChave": "cbo, código, brasileiro, ocupação"
+  },
+  {
+    "palavra": "CCO",
+    "definicao": "Centro de Controle de Operações",
+    "palavrasChave": "cco, centro, controle, operações"
+  },
+  {
+    "palavra": "CEO",
+    "definicao": "Centro de Especialidade Odontológica",
+    "palavrasChave": "ceo, centro, especialidade, odontológica, dentista"
+  },
+  {
+    "palavra": "CES",
+    "definicao": "Cadastro essencial",
+    "palavrasChave": "ces, cadastro, essencial"
+  },
+  {
+    "palavra": "CGSI",
+    "definicao": "Coordenação Geral de Sistemas de Informação",
+    "palavrasChave": "cgsi, coordenação, geral, sistemas, informação"
   },
   {
     "palavra": "CID",
     "definicao": "Classificação Internacional de Doenças",
-    "palavrasChave": "cid, classificacao, internacional, doencas"
+    "palavrasChave": "cid, classificação, internacional, doenças"
+  },
+  {
+    "palavra": "CLT",
+    "definicao": "Central de Regulação de Leitos",
+    "palavrasChave": "clt, central, regulação, leitos, hospital"
+  },
+  {
+    "palavra": "CMC",
+    "definicao": "Central de Marcação",
+    "palavrasChave": "cmc, central, marcação, consulta"
+  },
+  {
+    "palavra": "CNAE",
+    "definicao": "Cadastro Nacional de Atividades Econômica",
+    "palavrasChave": "cnae, cadastro, nacional, atividades, econômica"
   },
   {
     "palavra": "CNES",
     "definicao": "Cadastro Nacional de Estabelecimentos de Saúde",
-    "palavrasChave": "cnes, cadastro, nacional, estabelecimentos, saude"
+    "palavrasChave": "cnes, cadastro, nacional, estabelecimentos, saúde"
   },
   {
     "palavra": "CNS",
     "definicao": "Cartão Nacional de Saúde",
-    "palavrasChave": "cns, cartao, nacional, saude"
+    "palavrasChave": "cns, cartão, nacional, saúde"
+  },
+  {
+    "palavra": "CSA",
+    "definicao": "Centro de Saúde Ambiental",
+    "palavrasChave": "csa, centro, saúde, ambiental"
+  },
+  {
+    "palavra": "CTH",
+    "definicao": "Controle Hospitalar",
+    "palavrasChave": "cth, controle, hospitalar"
+  },
+  {
+    "palavra": "CTU",
+    "definicao": "Atendimento Ambulatorial de Urgência",
+    "palavrasChave": "ctu, atendimento, ambulatorial, urgência"
+  },
+  {
+    "palavra": "CULTFEZ",
+    "definicao": "Cultura de Fezes",
+    "palavrasChave": "cultfez, cultura, fezes, exame"
+  },
+  {
+    "palavra": "DATASUS",
+    "definicao": "Departamento de Informática do SUS",
+    "palavrasChave": "datasus, departamento, informática, sus"
+  },
+  {
+    "palavra": "DRAC",
+    "definicao": "Departamento de Regulação, Avaliação e Controle",
+    "palavrasChave": "drac, departamento, regulação, avaliação, controle"
+  },
+  {
+    "palavra": "eConsig",
+    "definicao": "Sistema Digital de Consignações - Empréstimo",
+    "palavrasChave": "econsig, sistema, digital, consignações, empréstimo"
+  },
+  {
+    "palavra": "FEAS",
+    "definicao": "Fundação Estatal de Atenção à Saúde",
+    "palavrasChave": "feas, fundação, estatal, atenção, saúde"
+  },
+  {
+    "palavra": "FPO",
+    "definicao": "Ficha de Programação Físico Orçamentária",
+    "palavrasChave": "fpo, ficha, programação, físico, orçamentária"
+  },
+  {
+    "palavra": "GAL",
+    "definicao": "Gerenciador de Ambiente Laboratorial",
+    "palavrasChave": "gal, gerenciador, ambiente, laboratorial, laboratório"
+  },
+  {
+    "palavra": "GEDSI",
+    "definicao": "Gerência de Data Center e Segurança da Informação",
+    "palavrasChave": "gedsi, gerência, data, center, segurança, informação"
   },
   {
     "palavra": "Incidente",
     "definicao": "Incidente é um evento que não é parte padrão de um serviço, e que pode interromper a tarefa ou ação de um usuário. Ex: Micro não liga, Monitor queimou, sistema constando erro 400",
-    "palavrasChave": "incidente, problema, erro, interrupcao, servico, chamado"
+    "palavrasChave": "incidente, evento, serviço, interromper, usuário, erro, problema"
   },
   {
     "palavra": "Jacarezinho Cardioclip",
     "definicao": "É a ponta do cabo do eletrocardiograma, é uma garrinha que lembra o cabo de bateria de um carro",
-    "palavrasChave": "jacarezinho, cardioclip, eletro, eletrocardiograma, cabo, garra"
+    "palavrasChave": "jacarezinho, cardioclip, ponta, cabo, eletrocardiograma, garra"
+  },
+  {
+    "palavra": "LAB",
+    "definicao": "Laboratório",
+    "palavrasChave": "lab, laboratório, exame"
+  },
+  {
+    "palavra": "MS",
+    "definicao": "Ministério da Saúde",
+    "palavrasChave": "ms, ministério, saúde"
+  },
+  {
+    "palavra": "NOC",
+    "definicao": "Centro de Operações de Rede (Network Operations Center)",
+    "palavrasChave": "noc, centro, operações, rede, network"
+  },
+  {
+    "palavra": "PACS",
+    "definicao": "Aurora XViewer é um sistema que permite a visualização dos laudos e das imagens dos exames de diagnóstico por imagem",
+    "palavrasChave": "pacs, aurora, xviewer, sistema, visualização, laudos, imagens, exames"
+  },
+  {
+    "palavra": "PAM",
+    "definicao": "Portal do Servidor",
+    "palavrasChave": "pam, portal, servidor, rh"
+  },
+  {
+    "palavra": "PAVS",
+    "definicao": "Plano de Ação em Vigilância Sanitária",
+    "palavrasChave": "pavs, plano, ação, vigilância, sanitária"
+  },
+  {
+    "palavra": "PEP",
+    "definicao": "Prontuário Eletrônico do Paciente",
+    "palavrasChave": "pep, prontuário, eletrônico, paciente"
   },
   {
     "palavra": "Ping",
     "definicao": "Medida do tempo de resposta de uma conexão, indicando quão rápido um pacote de dados vai de um dispositivo para um servidor e retorna, medido em milissegundos",
-    "palavrasChave": "ping, rede, latencia, conexao, ms, milissegundos, internet"
+    "palavrasChave": "ping, medida, tempo, resposta, conexão, pacote, dados, servidor"
+  },
+  {
+    "palavra": "POD",
+    "definicao": "Prontuário Odontológico",
+    "palavrasChave": "pod, prontuário, odontológico, dentista"
+  },
+  {
+    "palavra": "PRT",
+    "definicao": "Prontuário",
+    "palavrasChave": "prt, prontuário, paciente"
+  },
+  {
+    "palavra": "PSF",
+    "definicao": "Programa Saúde da Família",
+    "palavrasChave": "psf, programa, saúde, família"
+  },
+  {
+    "palavra": "RAAS",
+    "definicao": "Registro das Ações Ambulatoriais em Saúde",
+    "palavrasChave": "raas, registro, ações, ambulatoriais, saúde"
+  },
+  {
+    "palavra": "RD",
+    "definicao": "Relatórios",
+    "palavrasChave": "rd, relatórios, documento"
+  },
+  {
+    "palavra": "RDL",
+    "definicao": "Rede de Dados Local",
+    "palavrasChave": "rdl, rede, dados, local, lan"
   },
   {
     "palavra": "Requisições",
     "definicao": "É uma solicitação para implementar um serviço que ainda não existe, um novo relatório por exemplo, ou a instalação de algum software. Ex: Instalar Navegador, Suporte para salvar documentos em PDF",
-    "palavrasChave": "requisicao, servico, solicitacao, instalacao, novo"
+    "palavrasChave": "requisições, solicitação, serviço, relatório, instalação, software"
+  },
+  {
+    "palavra": "SAS",
+    "definicao": "Secretaria de Assistência à Saúde",
+    "palavrasChave": "sas, secretaria, assistência, saúde"
+  },
+  {
+    "palavra": "SCNES",
+    "definicao": "Sistema de Cadastro Nacional de Estabelecimento de Saúde",
+    "palavrasChave": "scnes, sistema, cadastro, nacional, estabelecimento, saúde, cnes"
+  },
+  {
+    "palavra": "SEG",
+    "definicao": "Segurança",
+    "palavrasChave": "seg, segurança, informação, acesso"
+  },
+  {
+    "palavra": "SERE",
+    "definicao": "Sistema Estadual de Registro Escolar",
+    "palavrasChave": "sere, sistema, estadual, registro, escolar"
+  },
+  {
+    "palavra": "SES",
+    "definicao": "Secretaria de Estado da Saúde",
+    "palavrasChave": "ses, secretaria, estado, saúde"
+  },
+  {
+    "palavra": "SGP",
+    "definicao": "Sistema de Gestão Pública",
+    "palavrasChave": "sgp, sistema, gestão, pública"
+  },
+  {
+    "palavra": "SIAA",
+    "definicao": "Sistema de Informações Ambulatoriais do SUS",
+    "palavrasChave": "siaa, sistema, informações, ambulatoriais, sus"
+  },
+  {
+    "palavra": "SIAB",
+    "definicao": "Sistema de Informação de Atenção Básica",
+    "palavrasChave": "siab, sistema, informação, atenção, básica"
+  },
+  {
+    "palavra": "SIGTAP",
+    "definicao": "Sistema de Gerenciamento da Tabela de Procedimentos, Medicamentos e Órteses, Próteses e Materiais Especiais do SUS",
+    "palavrasChave": "sigtap, sistema, gerenciamento, tabela, procedimentos, medicamentos, sus"
+  },
+  {
+    "palavra": "SI-PNI",
+    "definicao": "Sistema de Informação do Programa Nacional de Imunizações. (Ex.: sipni, scpa)",
+    "palavrasChave": "si-pni, sipni, scpa, sistema, informação, programa, nacional, imunizações, vacina"
+  },
+  {
+    "palavra": "SISQUAL",
+    "definicao": "É um sistema de gestão de escala utilizado por coordenadores de CAPS, UPAs, Maternidade Bairro Novo, HIZA e LMC.",
+    "palavrasChave": "sisqual, sistema, gestão, escala, coordenadores, caps, upas"
+  },
+  {
+    "palavra": "SisPreNatal",
+    "definicao": "Programa de Humanização no Pré-natal e Nascimento",
+    "palavrasChave": "sisprenatal, programa, humanização, pré-natal, nascimento, gestante"
   },
   {
     "palavra": "SUS",
     "definicao": "Sistema Único de Saúde",
-    "palavrasChave": "sus, sistema, unico, saude"
+    "palavrasChave": "sus, sistema, único, saúde"
+  },
+  {
+    "palavra": "TabWin",
+    "definicao": "Foi desenvolvido com a finalidade de permitir a realização de tabulações rápidas sobre os arquivos DBF",
+    "palavrasChave": "tabwin, tabulações, arquivos, dbf, datasus"
   },
   {
     "palavra": "Tracert",
     "definicao": "É um comando usado para rastrear o caminho que um pacote de dados percorre pela internet até o destino",
-    "palavrasChave": "tracert, traceroute, rede, rota, pacote, cmd"
+    "palavrasChave": "tracert, comando, rastrear, caminho, pacote, dados, internet, rede"
+  },
+  {
+    "palavra": "TUP",
+    "definicao": "Tabela Unificada de Procedimentos",
+    "palavrasChave": "tup, tabela, unificada, procedimentos"
   },
   {
     "palavra": "UPA",
     "definicao": "Unidade de Pronto Atendimento",
-    "palavrasChave": "upa, unidade, pronto, atendimento, urgencia"
+    "palavrasChave": "upa, unidade, pronto, atendimento, urgência"
+  },
+  {
+    "palavra": "USU",
+    "definicao": "Gerenciamento de Usuário",
+    "palavrasChave": "usu, gerenciamento, usuário, acesso, login"
+  },
+  {
+    "palavra": "VGE",
+    "definicao": "Vigilância Epidemiológica",
+    "palavrasChave": "vge, vigilância, epidemiológica"
   }
 ]
