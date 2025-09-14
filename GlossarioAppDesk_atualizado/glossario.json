@@ -1,0 +1,102 @@
+[
+  {
+    "palavra": "AB",
+    "definicao": "Atenção Básica",
+    "palavrasChave": "ab, atencao, basica, saude"
+  },
+  {
+    "palavra": "ACT",
+    "definicao": "Alto Custo",
+    "palavrasChave": "act, alto, custo, medicamento"
+  },
+  {
+    "palavra": "AIH",
+    "definicao": "Autorização para Internamento Hospitalar",
+    "palavrasChave": "aih, autorizacao, internamento, hospitalar"
+  },
+  {
+    "palavra": "ALM",
+    "definicao": "Almoxarifado",
+    "palavrasChave": "alm, almoxarifado, estoque"
+  },
+  {
+    "palavra": "APAC",
+    "definicao": "Autorização de Procedimento de Alta Complexidade",
+    "palavrasChave": "apac, autorizacao, procedimento, alta, complexidade"
+  },
+  {
+    "palavra": "APS",
+    "definicao": "Atenção Primária à Saúde",
+    "palavrasChave": "aps, atencao, primaria, saude"
+  },
+  {
+    "palavra": "Bolachinha",
+    "definicao": "São os icones da tela inicial do E-Saúde, que se encontra após o login",
+    "palavrasChave": "bolachinha, icones, esaude, e-saude, login, tela inicial"
+  },
+  {
+    "palavra": "BPA",
+    "definicao": "Boletim de Produção Ambulatorial",
+    "palavrasChave": "bpa, boletim, producao, ambulatorial"
+  },
+  {
+    "palavra": "CADSUS",
+    "definicao": "Cadastro Nacional de Usuários do Sistema Único de Saúde",
+    "palavrasChave": "cadsus, cadastro, nacional, usuarios, sus"
+  },
+  {
+    "palavra": "CBO",
+    "definicao": "Código Brasileiro de Ocupação",
+    "palavrasChave": "cbo, codigo, brasileiro, ocupacao"
+  },
+  {
+    "palavra": "CID",
+    "definicao": "Classificação Internacional de Doenças",
+    "palavrasChave": "cid, classificacao, internacional, doencas"
+  },
+  {
+    "palavra": "CNES",
+    "definicao": "Cadastro Nacional de Estabelecimentos de Saúde",
+    "palavrasChave": "cnes, cadastro, nacional, estabelecimentos, saude"
+  },
+  {
+    "palavra": "CNS",
+    "definicao": "Cartão Nacional de Saúde",
+    "palavrasChave": "cns, cartao, nacional, saude"
+  },
+  {
+    "palavra": "Incidente",
+    "definicao": "Incidente é um evento que não é parte padrão de um serviço, e que pode interromper a tarefa ou ação de um usuário. Ex: Micro não liga, Monitor queimou, sistema constando erro 400",
+    "palavrasChave": "incidente, problema, erro, interrupcao, servico, chamado"
+  },
+  {
+    "palavra": "Jacarezinho Cardioclip",
+    "definicao": "É a ponta do cabo do eletrocardiograma, é uma garrinha que lembra o cabo de bateria de um carro",
+    "palavrasChave": "jacarezinho, cardioclip, eletro, eletrocardiograma, cabo, garra"
+  },
+  {
+    "palavra": "Ping",
+    "definicao": "Medida do tempo de resposta de uma conexão, indicando quão rápido um pacote de dados vai de um dispositivo para um servidor e retorna, medido em milissegundos",
+    "palavrasChave": "ping, rede, latencia, conexao, ms, milissegundos, internet"
+  },
+  {
+    "palavra": "Requisições",
+    "definicao": "É uma solicitação para implementar um serviço que ainda não existe, um novo relatório por exemplo, ou a instalação de algum software. Ex: Instalar Navegador, Suporte para salvar documentos em PDF",
+    "palavrasChave": "requisicao, servico, solicitacao, instalacao, novo"
+  },
+  {
+    "palavra": "SUS",
+    "definicao": "Sistema Único de Saúde",
+    "palavrasChave": "sus, sistema, unico, saude"
+  },
+  {
+    "palavra": "Tracert",
+    "definicao": "É um comando usado para rastrear o caminho que um pacote de dados percorre pela internet até o destino",
+    "palavrasChave": "tracert, traceroute, rede, rota, pacote, cmd"
+  },
+  {
+    "palavra": "UPA",
+    "definicao": "Unidade de Pronto Atendimento",
+    "palavrasChave": "upa, unidade, pronto, atendimento, urgencia"
+  }
+]
