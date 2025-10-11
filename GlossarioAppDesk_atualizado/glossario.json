@@ -385,28 +385,8 @@
     "palavrasChave": "RP, restaurante, popular"
   },
   {
-    "palavra": "LIGGA TELECOM",
-    "definicao": "Esta operadora realiza atendimento para os links que estão nos NOC\u0027s: SRVEXT, SMS, SEC, CORP, MURALHA, NORTE, SUL, LESTE, OESTE e MATRIZ.\n\n - Contato: Com quem atender\nTelefones: 3318-7895 em Qualquer Horário \n\nInformações adicionais:\n\nNão conseguindo contato no 3318-7895 seguir a Lista de Escalonamento disponível no Versionador\nLink: http://svndoc.ici.curitiba.org.br/ICI/DIT/GESER/COSD2/N1/Arquivos%20Importantes/Escalonamento%20Operadora.pdf\n\nE-mail: ct.corporativo@liggatelecom.com.br\nE-mail: ct.corporativo@copeltelecom.com\nE-mail: ct.corporativo@liggavc.com.br",
-    "palavrasChave": "ligga, monitoramento, contato, email, telefone, noc"
-  },
-  {
-    "palavra": "LIGGA FIBRA",
-    "definicao": "Para uso a pedido da COCR sobre problemas em fibra.\n\n Contato: Com quem atender\n Telefones: 0800-4141-810 + Nº do Circuito ou (41) 3331-3001\n\nInformações adicionais:\n\n Para uso a pedido da COCR sobre problemas em fibra.\n Exemplo: Circuito Nº 1528825 Ligga Fibra (antigo Copel Fibra) 300 Mbps\n E-mail para solicitações referentes a este serviço: pos-vendas@liggatelecom.com.br",
-    "palavrasChave": "Ligga, COCR, problemas"
-  },
-  {
-    "palavra": "OI TELECOM - CENTRAL 156 CURITIBA",
-    "definicao": "-\u003e Atendimento a Serviços de Emergência e de Utilidade Pública (Central 156).\n * Caso o 0800 não atenda, ligar para Mauro Dutra (48 98401-1299).\n\n Contato: Com quem atender\n Telefones: 0800-024-7419\n\nInformações adicionais:\n\n -\u003e Quando houver problemas com a telefonia da Central 156 de Curitiba utilizar os dados abaixo para acionar o fornecedor:\n Razão social: INS CURITIBA DE INFORMATICA\n CNPJ: 02.576.670/0001-86\n\n*A Central 156 de Curitiba tem diversos circuitos de voz, quando houver a queda, a equipe do COCR sempre irá sinalizar qual o número do circuito  que está com problema para acionamento junto a operadora.",
-    "palavrasChave": "oi, telecom, 156, central, curitiba"
-  },
-  {
-    "palavra": "OI TELECOM - GERAL",
-    "definicao": "-\u003e Para uso somente do ICI a pedido do COCR, sobre problemas em telefonia.\n\n Contato: Com quem atender\n Telefones: 0800 031 8031\n\nInformações adicionais:\n\n -\u003e Para acionamento do fornecedor quando houver problemas na de telefonia de Curitiba utilizar os dados abaixo:\n Razão social: INS CURITIBA DE INFORMATICA\n CNPJ: 02.576.670/0001-86\n\n* Geralmente é usado a pedido da equipe do COCR, inclusive poderão informar o circuito.",
-    "palavrasChave": "oi, geral, cocr, telefone, cnpj, razão, social"
-  },
-  {
-    "palavra": "INTERNEXA",
-    "definicao": "-\u003e Para acionamento de atendimento aos Links CCTO-ID-39494 (FW-SME) / CCTO-ID-39495 (ICI) e CCTO-ID-42610 (ARLEQUIM).\n * Este acionamento pode ser solicitado pela equipe do COCR ou mediante chamado vindo da equipe do NOC.\n\n Contato: Com quem atender\n Telefones: 0800-520-1000\n\nInformações adicionais:\n\n * Caso o Data Center ou COCR solicite acionamento de outros níveis, verificar a Lista de Escalonamento disponível no Versionador.\n Link: http://svndoc.ici.curitiba.org.br/ICI/DIT/GESER/COSD2/N1/Arquivos%20Importantes/Escalonamento%20InterNexa.png",
-    "palavrasChave": "internexa, ccto, id, 39494, fw, sme, 39495, 42610, arlequim, telefone"
+    "palavra": "MSE",
+    "definicao": "Meio Ambiente Serviços Especiais\n\n- Senha padrão de rede\n\n- Caso liguem informando que o programa não está atualizado orientar ao usuário a reiniciar o computador.",
+    "palavrasChave": "mse, meio, ambiente, serviços, especiais"
   }
 ]
